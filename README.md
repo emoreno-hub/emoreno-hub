@@ -4,10 +4,11 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 - 🔭 I’m currently working on ...
 
 ### ⚙️ What I Work On
-- 🔗 Scalable data pipelines with **Databricks**, **Snowflake**, and **Azure**
-- 📊 Dashboards and KPIs in **Power BI** for finance, risk, and manufacturing
-- 🧠 Applied **ML & NLP** for anomaly detection, classification, and peak analysis
-- 🌐 Urban air mobility analytics: flight networks, helipads, and market clustering
+- 🔗 Scalable data pipelines with **Databricks**, **Snowflake**, and **Palantir Foundry**
+- ☁️ Cloud integration: Azure (data storage, orchestration) and AWS (EC2, S3, SageMaker, Redshift)
+- 📊 Dashboards and Analytics: **Power BI** and **Streamlit**
+- 🧠 Applied **ML & Data Mining** for anomaly detection, classification, and analysis
+- 🌐 Urban air mobility analytics: flight networks, infrastructure, and market intelligence
 
 ### 🛠️ Tools & Technologies
 `Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
