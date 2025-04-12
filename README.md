@@ -24,7 +24,7 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 **🚇 Real-Time Transit Dashboard with Kafka Streaming**
 - Developed a streaming pipeline using Apache Kafka and its ecosystem to simulate and monitor real-time train statuses using public data from the Chicago Transit Authority. Integrated data from REST Proxy, Kafka Connect, KSQL, and Faust to process and visualize transit and weather information dynamically.
 
-** 📦 AI-Powered Inventory Monitoring Using Computer Vision
+**📦 AI-Powered Inventory Monitoring Using Computer Vision**
 - Built a computer vision pipeline using a pre-trained ResNet50 model to demonstrate how computer vision can be used to automate inventory counting in warehouse bins.  Deployed the model via AWS SageMaker and Lambda to enable real-time object counting from test images.
 
 **🚨 Disaster Response Message Classifier**
