@@ -11,7 +11,7 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 
 ### 🛠️ Tools & Technologies
 `Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
-`ML` · `NLP` · `Generative AI` · `Geospatial Analysis` · `Streamlit` · `LangChain`
+`ML` · `NLP` · `Generative AI` · `Geospatial Analysis` · `Streamlit` · `LangChain`, `LLMs`, `Retrieval Augmented Generation`
 
 ---
 
