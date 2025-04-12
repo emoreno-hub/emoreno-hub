@@ -6,7 +6,7 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 - ☁️ Cloud platforms: Azure (data storage, orchestration) and AWS (EC2, S3, SageMaker, Redshift)
 - 📊 Dashboards and Analytics: **Power BI** and **Streamlit**
 - 🧠 Applied **ML & Data Mining** for anomaly detection, classification, and analysis
-- 🌐 Urban air mobility analytics: flight networks, infrastructure, and market intelligence
+- 🌐 Urban air mobility analytics: flight networks, infrastructure, geospatial analysis, and market intelligence
 
 ### 🛠️ Tools & Technologies
 `Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
