@@ -6,8 +6,8 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 - ☁️ Cloud platforms: Azure (data storage, orchestration) and AWS (EC2, S3, SageMaker, Redshift)
 - 📊 Dashboards and Analytics: **Power BI** and **Streamlit**
 - 🧠 Applied **ML & Data Mining** for anomaly detection, classification, and analysis
-- 🌐 Urban air mobility analytics: flight networks, infrastructure, **geospatial analysis**, and market intelligence
-- 🤖 LLMs & RAG: Built applications using LangChain, ChromaDB, and OpenAI APIs for domain-specific Q&A and content generation
+- 🌐 Urban air mobility analytics:  flight networks, infrastructure, **geospatial analysis**, and market intelligence
+- 🤖 LLMs & RAG: Build applications using LangChain, ChromaDB, and OpenAI API for domain-specific Q&A and content generation
 
 ### 🛠️ Tools & Technologies
 `Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
