@@ -1,4 +1,21 @@
 ## Hi there 👋
+I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection of analytics, strategy, and innovation.  With a master's in **Applied Data Science from the University of Michigan** and a **Supply Chain MicroMasters from MIT**, I work on projects that turn raw data into real-world insights by bridging business and technology. I've built scalable data pipelines, Power BI dashboards, and ML models across a variety of industries including supply chain, utilities, insurance claims, legal, operations, and product strategy.
+
+- 🔭 I’m currently working on ...
+
+### ⚙️ What I Work On
+- 🔗 Scalable data pipelines with **Databricks**, **Snowflake**, and **Azure**
+- 📊 Dashboards and KPIs in **Power BI** for finance, risk, and manufacturing
+- 🧠 Applied **ML & NLP** for anomaly detection, classification, and peak analysis
+- 🌐 Urban air mobility analytics: flight networks, helipads, and market clustering
+
+### 🛠️ Tools & Technologies
+`Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
+`ML` · `NLP` · `Generative AI` · `Geospatial Analysis` · `Streamlit` · `LangChain`
+
+---
+
+📌 *Thanks for stopping by! Feel free to explore my pinned projects.*
 
 <!--
 **emoreno-hub/emoreno-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
