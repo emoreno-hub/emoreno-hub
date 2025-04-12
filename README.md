@@ -16,15 +16,12 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 
 ### 📌 Select Projects
 **🏡 Smarter Home Search with LLMs & Vector Search**
-
 Built a real estate app that uses LLMs and ChromaDB to transform listings into personalized narratives based on buyer preferences. Combines semantic search with LangChain to deliver a smarter, more intuitive home search experience.
 
 **❄️ Yelp & Weather ELT Pipeline with Snowflake**
-
 Developed an end-to-end ELT pipeline that integrates Yelp and weather data to analyze the impact of climate on local business reviews. Utilized AWS S3 for data staging, Snowflake for data warehousing, and Power BI for visualization, following industry-standard data modeling practices.
 
 **🚇 Real-Time Transit Dashboard with Kafka Streaming**
-
 Developed a streaming pipeline using Apache Kafka and its ecosystem to simulate and monitor real-time train statuses using public data from the Chicago Transit Authority. Integrated data from REST Proxy, Kafka Connect, KSQL, and Faust to process and visualize transit and weather information dynamically.
 
 <!--
