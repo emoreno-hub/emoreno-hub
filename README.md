@@ -15,7 +15,7 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 ---
 
 ### 📌 Select Projects
-**🏡 Smarter Home Search with LLMs & Vector Search**
+####🏡 Smarter Home Search with LLMs & Vector Search
 Built a real estate app that uses LLMs and ChromaDB to transform listings into personalized narratives based on buyer preferences. Combines semantic search with LangChain to deliver a smarter, more intuitive home search experience.
 
 **❄️ Yelp & Weather ELT Pipeline with Snowflake**
