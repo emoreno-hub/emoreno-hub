@@ -11,7 +11,7 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 
 ### 🛠️ Tools & Technologies
 `Python` · `SQL` · `PySpark` · `Power BI` · `Databricks` · `Snowflake` · `Azure` · `Palantir Foundry`  
-`ML` · `NLP` · `Generative AI` · `Geospatial Analysis` · `Streamlit` · `LangChain` · `LLMs` · `Retrieval Augmented Generation` · `Docker`
+`ML` · `NLP` · `Generative AI` · `Geospatial Analysis` · `Streamlit` · `LangChain` · `LLMs` · `RAG` · `Docker`
 
 ---
 
@@ -28,8 +28,8 @@ I'm a **Data Engineer** and **Data Scientist** who thrives at the intersection o
 **📦 AI-Powered Inventory Monitoring Using Computer Vision**
 - Built a computer vision pipeline using a pre-trained ResNet50 model to demonstrate how computer vision can be used to automate inventory counting in warehouse bins.  Deployed the model via AWS SageMaker and Lambda to enable real-time object counting from test images.
 
-**🚨 Disaster Response Message Classifier**
-- Developed a machine learning pipeline to classify real-time disaster-related messages into multiple categories, aiding emergency response efforts. Integrated an ETL process, trained a multi-output classifier, and deployed a Flask web app for interactive message classification.
+**🚨 Disaster Response Message Classifier (NLP)**
+- Developed a NLP pipeline to classify real disaster-related messages into multiple categories to support emergency response efforts. Integrated an ETL process, trained a multi-output classifier, and deployed a Flask web app for interactive message classification.
 
 
 <!--
